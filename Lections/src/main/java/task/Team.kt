@@ -1,7 +1,5 @@
 package task
 
-import de.jupf.staticlog.Log
-
 class Team {
     var teamName: String = ""
     var listOfPlayers: MutableList<Player> = mutableListOf()
